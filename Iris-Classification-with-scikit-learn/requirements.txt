@@ -1,4 +1,4 @@
 fbprophet==0.7.1
 scikit-learn
 requests
-SortedSet=1.0
+SortedSet==1.0
